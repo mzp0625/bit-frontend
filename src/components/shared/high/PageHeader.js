@@ -39,13 +39,11 @@ import LightningBoltIcon from '../../../assets/icons/PageHeaderAssets'
 
 const PageHeaderContainer = styled.div`
   padding: 2em 2em 2em 2em;
-  width: 50em;
+  width: 45em;
   position: relative;
 	
 	margin-top: 3%;
-	margin-left: auto;
-	margin-bottom: 3%;
-	margin-right: auto;
+	margin-left: 2%
 	
 	border: solid rgba(255,232,112, 0.8);
   border-radius: 0.4em;
